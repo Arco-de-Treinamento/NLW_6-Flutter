@@ -4,7 +4,7 @@
 <h2 align="center">🚀 Progresso:</h2>
 
 * ✔️ Aula 01 - Liftoff
-* 🛠️ Aula 02 - Maximum Speed
+* ✔️ Aula 02 - Maximum Speed
 * 🛠️ Aula 03 - In Orbit
 * 🛠️ Aula 04 - Landing
 * 🛠️ Aula 05 - Surface Exploration
