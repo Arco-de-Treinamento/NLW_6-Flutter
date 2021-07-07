@@ -73,4 +73,4 @@ class MinhaClass {
 
 <h2 align="center">📝 Licença:</h2>
 
-Este projeto está sobe a licença [MIT](https://github.com/JosManoel/NLW_Together-Flutter/blob/main/LICENSE).
+Este projeto está sob a licença [MIT](https://github.com/JosManoel/NLW_Together-Flutter/blob/main/LICENSE).
